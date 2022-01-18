@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/lib/keebio-components/keebio.lib")(options "")(descr ""))
+  (lib (name "digikey_navswitch")(type "Legacy")(uri "/store/zhuriel/doc/electronics/manufoldv2/pcb/lib/digikey-kicad-library/digikey-symbols/dk_Navigation-Switches-Joystick.lib")(options "")(descr ""))
+)

@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "keebio")(type "KiCad")(uri "${KIPRJMOD}/lib/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "digikey")(type "KiCad")(uri "${KIPRJMOD}/lib/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "promicro_dual")(type "KiCad")(uri "${KIPRJMOD}/lib/promicro_dual.pretty")(options "")(descr ""))
+)
